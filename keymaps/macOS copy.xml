@@ -1,0 +1,20 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CheckinProject" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="c" />
+  </action>
+  <action id="Console.TableResult.SelectRow" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta #10000b4" />
+  </action>
+  <action id="SaveAll" />
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="Vcs.ToggleAmendCommitMode" />
+</keymap>
