@@ -1,0 +1,11 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="editor.comment.line.caret.down" value="false" />
+        <entry key="ide.open.readme.md.on.startup" value="false" />
+        <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
