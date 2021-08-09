@@ -6,7 +6,6 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="invertedSelectionColor" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="isActiveBoldTab" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactTables" value="true" />
@@ -17,7 +16,7 @@
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="indicatorStyle" value="None" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="highlightThickness" value="3" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="a36d991:179c11ecc64:-8000" />
