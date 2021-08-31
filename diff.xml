@@ -4,11 +4,7 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
     </option>
