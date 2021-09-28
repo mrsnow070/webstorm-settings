@@ -1,7 +1,7 @@
 <application>
   <component name="RNSettings">
     <option name="androidStudioPath" value="/Applications/Android Studio.app" />
-    <option name="version" value="2021.2.4.1" />
+    <option name="version" value="2021.3.0 EAP" />
     <option name="xcodePath" value="/Applications/Xcode.app" />
   </component>
 </application>
