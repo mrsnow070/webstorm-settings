@@ -4,5 +4,6 @@
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
+    <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
   </component>
 </application>
