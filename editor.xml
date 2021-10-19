@@ -4,9 +4,6 @@
     <option name="PARAMETER_INFO_DELAY" value="1" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
-  </component>
   <component name="DefaultFont">
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
