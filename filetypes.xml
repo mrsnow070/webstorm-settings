@@ -6,6 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".env_tmp.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".eslintConfig" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfing" type="PLAIN_TEXT" />
