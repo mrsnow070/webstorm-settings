@@ -16,6 +16,7 @@
       <mapping ext="xcconfig" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="jts" type="PLAIN_TEXT" />
+      <mapping ext="app" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
