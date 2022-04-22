@@ -13,8 +13,8 @@
     <mask>*.rb</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
-    <mask>*.js</mask>
     <mask>*.tsx</mask>
+    <mask>*.js</mask>
     <mask>*.ts</mask>
   </component>
 </application>
