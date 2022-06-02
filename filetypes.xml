@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="_ruby-version" type="AUTO_DETECTED" />
+      <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping ext="ds" type="JavaScript" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
