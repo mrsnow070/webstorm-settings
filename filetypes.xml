@@ -24,6 +24,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="jts" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="entitlements" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
