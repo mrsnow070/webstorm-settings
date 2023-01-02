@@ -35,7 +35,7 @@
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="condprop" value="{...($condition$ &amp;&amp; {$END$})}" toReformat="true" toShortenFQNames="true">
+  <template name="condprop" value="{...($condition$ &amp;&amp; {$END$})}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="condition" expression="" defaultValue="&quot;condition&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
