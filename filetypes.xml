@@ -7,13 +7,14 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
-      <mapping pattern=".env_cp" type="PLAIN_TEXT" />
+      <mapping pattern=".env_backup.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env_tmp.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".eslintConfig" type="PLAIN_TEXT" />
-      <mapping pattern=".flowconfing" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".env_cp" type="PLAIN_TEXT" />
+      <mapping pattern=".flowconfing" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
